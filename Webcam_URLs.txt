@@ -1,0 +1,10 @@
+A5 Nord: 31, 32, 33, 34
+A5 Mitte: 41, 42, 43
+A8 Karlsruhe: 51, 52
+A5 Ettlingen: 61, 62
+
+Code:
+- https://www.avajava.com/tutorials/lessons/how-do-i-save-an-image-from-a-url-to-a-file.html
+- https://www.mkyong.com/java/how-to-get-current-timestamps-in-java/
+- https://stackoverflow.com/questions/35995431/how-to-specify-user-agent-and-referer-in-fileutils-copyurltofileurl-file-meth
+- https://stackoverflow.com/questions/15758685/how-to-write-logs-in-text-file-when-using-java-util-logging-logger
